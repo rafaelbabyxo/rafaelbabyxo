@@ -22,7 +22,7 @@ I'm a part time open source developer!
 
 Wanna see some of my future projects? Join today!
 
-[![Community](https://canary.discord.com/api/guilds/817443197021192213/widget.json)](https://discord.gg/PpCAxDDHz4)
+[![Community](https://canary.discord.com/widget?id=817443197021192213&theme=dark)](https://discord.gg/PpCAxDDHz4)
 
 ---
 
