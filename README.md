@@ -16,7 +16,7 @@ I'm a part time open source developer!
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
 
 ## :earth_asia: My Community
 
@@ -29,14 +29,9 @@ Wanna see some of my future projects? Join today!
 <!-- markdownlint-disable MD033 -->
 
 <details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
-
-</details>
-
-<details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=1800hate)
 
 </details>
 
