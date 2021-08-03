@@ -6,7 +6,7 @@ I'm a part time open source developer!
 
 - :muscle: Currently working as a developer.
 - :gift_heart: Author of multiple open source projects.
-- :moneybag: Owner of a community called 1800.
+- :moneybag: Owner of a community called ![1800](https://discord.gg/PpCAxDDHz4).
 - :trophy: 2021 Goals: Contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
