@@ -1,42 +1,25 @@
-# Hi, I'm hate
+## Hi, I'm hate
 
-I'm a part time open source developer!
+<div> 
+  <a href="https://www.youtube.com/channel/UCs1huNgLTHnh0KF8qcaFQig" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/1800hatee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/therealhatee" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/PpCAxDDHz4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1800hate) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCs1huNgLTHnh0KF8qcaFQig)
+<div style="display: inline_block"><br>
+  <img align="center" alt="hate-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="hate-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="hate-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="hate-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="hate-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="hate-fofo" src="https://cdn.discordapp.com/attachments/816713737293266974/872131176830218300/be2fb3757aed060db56eec3bd1baadaa_1.jpg">
+</div>
 
-- :muscle: Currently working as a developer.
-- :gift_heart: Author of multiple open source projects.
-- :moneybag: Owner of a community called [1800](https://discord.gg/PpCAxDDHz4).
-- :trophy: 2021 Goals: Contribute and publish more open source projects.
-- :dart: Wasting my time to save other people's time.
+  ##
 
-## :headphones: Spotify Playing
-
-[![Spotify](https://open.spotify.com/embed/track/0KeH4jaWKwZ4pNaBb0IW4g)](https://open.spotify.com/track/0KeH4jaWKwZ4pNaBb0IW4g?si=8b019c7283dc4b24)
-
-## :wrench: Technologies
-
-![HTML5](https://img.icons8.com/color/30/html-5.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
-
-## :earth_asia: My Community
-
-Wanna see some of my future projects? Join today!
-
-[![Community](https://canary.discord.com/widget?id=817443197021192213&theme=dark)](https://discord.gg/PpCAxDDHz4)
-
----
-
-<!-- markdownlint-disable MD033 -->
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=1800hate)
-
-</details>
-
-<!-- markdownlint-enable MD033 -->
-
-[twitter]: https://twitter.com/1800hate
-[instagram]: https://www.instagram.com/1800hatee/
-[youtube]: https://www.youtube.com/channel/UCs1huNgLTHnh0KF8qcaFQig
+<div>
+  <a href="https://github.com/1800hate">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1800hate&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1800hate&layout=compact&langs_count=7&theme=dark"/>
+</div>
