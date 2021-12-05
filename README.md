@@ -10,7 +10,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/1800hate">
-    <img src="https://lanyard-profile-readme.vercel.app/api/530762562103672843"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/844524855675453450"/>
      </a>
 </p>
 
