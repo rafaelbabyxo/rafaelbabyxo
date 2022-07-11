@@ -5,7 +5,7 @@
   <a href="https://www.twitch.tv/therealhatee">Twitch</a> |
   <a href="https://instagram.com/1800hatee">Instagram</a> |
   <a href="https://twitter.com/hatezyn">Twitter</a> |
-  <a href="https://steamcommunity.com/id/therealhatee">Steam</a>
+  <a href="https://steamcommunity.com/id/ef2">Steam</a>
 </p>
 
 <p align="center"><br>
