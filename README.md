@@ -1,10 +1,10 @@
 <p align='center'>
   <b>Hi 👋, I'm Hate</b><br>
-  <a href="https://discord.gg/PpCAxDDHz4">Discord</a> |
+  <a href="discord.com/users/844524855675453450">Discord</a> |
   <a href="https://www.youtube.com/channel/UCs1huNgLTHnh0KF8qcaFQig">YouTube</a> |
   <a href="https://www.twitch.tv/therealhatee">Twitch</a> |
-  <a href="https://instagram.com/1800hatee">Instagram</a> |
-  <a href="https://twitter.com/hatezyn">Twitter</a> |
+  <a href="https://instagram.com/rafaelbabyxo">Instagram</a> |
+  <a href="https://twitter.com/rafelbabyxo">Twitter</a> |
   <a href="https://steamcommunity.com/id/ef2">Steam</a>
 </p>
 
