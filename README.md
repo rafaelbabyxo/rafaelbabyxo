@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm Hate</b><br>
+  <b>Hi 👋, I'm Rafael</b><br>
   <a href="discord.com/users/844524855675453450">Discord</a> |
   <a href="https://www.youtube.com/channel/UCs1huNgLTHnh0KF8qcaFQig">YouTube</a> |
   <a href="https://www.twitch.tv/therealhatee">Twitch</a> |
