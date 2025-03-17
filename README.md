@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/rafaelbabyxo">
+  <a href="discord.com/users/844524855675453450">
     <img src="https://lanyard-profile-readme.vercel.app/api/844524855675453450"/>
      </a>
 </p>
